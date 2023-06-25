@@ -6,9 +6,6 @@ Product reviews are becoming more important with the evolution of traditional br
 
 The dataset I will be using is from :- www.kaggle.com
 
-I have also provided the direct link below if you wish to view the dataset I used to build my model:
-"C:\Users\kalya\OneDrive\Desktop\Task2-Sentiment_Analysis\Task2-Amazon_Reviews.csv"
-
 This project was completed using Jupyter Notebook and Python with Pandas, NumPy, Matplotlib.
 
 This was my first project using Python, and I look forward to contributing to the community.
